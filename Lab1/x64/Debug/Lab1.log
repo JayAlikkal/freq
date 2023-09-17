@@ -1,0 +1,4 @@
+﻿  Lab1.cpp
+C:\Users\jagat\source\repos\Lab1\Lab1.cpp(186,16): warning C4305: 'initializing': truncation from 'int' to 'char'
+C:\Users\jagat\source\repos\Lab1\Lab1.cpp(186,18): warning C4309: 'initializing': truncation of constant value
+  Lab1.vcxproj -> C:\Users\jagat\source\repos\Lab1\x64\Debug\Lab1.exe
